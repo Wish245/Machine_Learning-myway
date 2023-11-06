@@ -1,2 +1,5 @@
-# Machine_Learning-myway
-I'm trying to learn Machine learning. so I'm trying to implement those concepts those algorithms myself. so this is the part one of it. I try my best. well, lets see.
+# Univariable Linear Regression 
+I'm trying to implement the above idea with my own understanding.
+Please don't mind the repo name. 
+I'm not good with Names.
+also, I plan to give it my own mathematical approach.
